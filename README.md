@@ -6,8 +6,6 @@
   <b>A easy to use, Automated phishing tool.</b> <br><br>
   <img src="https://img.shields.io/badge/Version-0.1.0-green" alt=""/>
   <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
-  <img src="https://img.shields.io/badge/Author-rdWei-937DC2" alt=""/>  
-  <a href="https://scrutinizer-ci.com/g/rdWei/exaPhisher/"><img src="https://img.shields.io/badge/Code quality-10.00-lightgreen" alt=""/></a> 
 </p>
 
 ##
