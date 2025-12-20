@@ -72,7 +72,7 @@ def banner():
 ┗┓┣  ┃ ┃┃┃┃
 ┗┛┗┛ ┻ ┗┛┣┛
 
-'''+square_version+bcolors.OKGREEN+''' ╍'''+bcolors.OKBLUE+''' Phishing tool by github.com/rdwei '''+bcolors.OKGREEN+'''╍
+'''+square_version+bcolors.OKGREEN+''' ╍'''+bcolors.OKBLUE+''' Phishing tool by github.com/SamueleAmato '''+bcolors.OKGREEN+'''╍
 
 '''+bcolors.ENDC+bcolors.BG_RED+''':: Developers assumes no liability and are not ::'''+bcolors.ENDC+'''
 ''')

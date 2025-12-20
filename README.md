@@ -6,7 +6,7 @@
   <b>A easy to use, Automated phishing tool.</b> <br><br>
   <img src="https://img.shields.io/badge/Version-0.1.0-green" alt=""/>
   <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
-  <img src="https://img.shields.io/badge/Author-rdWei-937DC2" alt=""/>  
+  <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2" alt=""/>  
 </p>
 
 ##
@@ -29,7 +29,7 @@
 One command installation:
 
 ```
-wget https://raw.githubusercontent.com/rdWei/exaPhisher/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/SamueleAmato/exaPhisher/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ### Info
@@ -74,7 +74,7 @@ wget https://raw.githubusercontent.com/rdWei/exaPhisher/main/setup.sh && chmod +
 
 - Linux & Termux
   ```
-  git clone https://github.com/rdWei/exaPhisher/
+  git clone https://github.com/SamueleAmato/exaPhisher/
   cd exaPhisher
   cd src && python3 setup.py
   cd ..

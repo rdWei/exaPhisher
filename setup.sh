@@ -127,7 +127,7 @@ echo -e "===LH SETUP===\n\nWRITE yes AND PRESS ENTER\n"
 sleep 2
 ssh -R 80:localhost:8080 nokey@localhost.run
 
-git clone https://github.com/rdWei/exaPhisher
+git clone https://github.com/SamueleAmato/exaPhisher
 cd exaPhisher
 
 # Create a version file
